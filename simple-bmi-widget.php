@@ -23,7 +23,7 @@ class Simple_Bmi_Widget extends WP_Widget
 		</p>
 		<!-- Maintenant les cases à cocher.-->
 		<p>
-			<?php _e('Unity','simple-bmi-widget'); ?>
+			<?php _e('Unity:','simple-bmi-widget'); ?>
 			<br />
 			<input type="radio" name="<?php echo $this->get_field_name('unity'); ?>" value="us" id="<?php echo $this->get_field_id('unity'); ?>" <?php if($instance['unity'] == 'us') {echo 'checked="checked"';} ?>/><label for="<?php echo $this->get_field_id('unity'); ?>"><?php echo 'lb/in'; ?></label>		
 			<input type="radio" name="<?php echo $this->get_field_name('unity'); ?>" value="eu" id="<?php echo $this->get_field_id('unity'); ?>" <?php if($instance['unity'] == 'eu') {echo 'checked="checked"';} ?>/><label for="<?php echo $this->get_field_id('unity'); ?>" ><?php echo 'kg/m'; ?></label>
