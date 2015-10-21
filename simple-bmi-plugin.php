@@ -13,8 +13,8 @@ License: GLPL2
 
 
 //Enlever commentaire pour faire apparraître les erreurs php
-ini_set('display_errors', 'on');
-error_reporting(E_ALL);
+//ini_set('display_errors', 'on');
+//error_reporting(E_ALL);
 
 class Simple_Bmi_Plugin
 {
