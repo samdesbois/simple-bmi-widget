@@ -13,13 +13,13 @@ A simple widget to calculate your BMI (Body Mass Index) depending of your weight
 == Description ==
 
 = ENGLISH = 
-Medecine have created a formula (BMI or Body Mass Index) to calculate your ideal weight range to be in good health. This plugin go to the essential by calculating your BMI and giving the interpretation of it. The evaluation is for adults only.
+Medicine have created a formula (BMI or Body Mass Index) to calculate your ideal weight range to be in good health. This plugin go to the essential by calculating your BMI and giving the interpretation of it. The evaluation is for adults only.
 
 You can select to display the widget in two ways :
-* Metric (meters an kilograms)
+* Metric (meters and kilograms)
 * Or imperial (inches and pounds)
 
-It's is available in english, french an portugues (Brazil).
+It's available in English, French and Portugues (Brazil).
 
 = FRENCH =
 La Médecine a inventé une formule (IMC ou Indice de Masse Corporelle) pour calculer le poids idéal pour reser en bonne santé. Ce plugin va à l'essentiel en calculant l'IMC puis en fournissant son interprétation. Cette évaluation n'est valable que pour l'adulte.
