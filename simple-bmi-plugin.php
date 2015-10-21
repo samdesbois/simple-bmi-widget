@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Simple BMI widget
-Plugin URI: http://yev0n.fr/imc-widget/
+Plugin URI: https://github.com/samdesbois/simple-bmi-widget
 Description: A widget to calculate your BMI.
 Version: 0.1
 Author: Samdesbois	
