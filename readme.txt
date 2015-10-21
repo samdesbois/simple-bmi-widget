@@ -34,7 +34,7 @@ Il est disponible en anglais, français et portugais (Brésil).
 
 1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Go to the widget section to to place widget in the desirated place and to change default configuration
+1. Go to the widget section to place widget in the desirated place and to change default configuration
 
 == Frequently Asked Questions ==
 
