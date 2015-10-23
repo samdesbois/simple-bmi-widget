@@ -13,7 +13,7 @@ A simple widget to calculate your BMI (Body Mass Index) depending of your weight
 == Description ==
 
 = ENGLISH = 
-Medicine have created a formula (BMI or Body Mass Index) to calculate your ideal weight range to be in good health. This plugin go to the essential by calculating your BMI and giving the interpretation of it. The evaluation is for adults only.
+Medicine has created a formula (BMI or Body Mass Index) to calculate your ideal weight range to be in good health. This plugin go to the essential by calculating your BMI and giving the interpretation of it. The evaluation is for adults only.
 
 You can select to display the widget in two ways :
 * Metric (meters and kilograms)
