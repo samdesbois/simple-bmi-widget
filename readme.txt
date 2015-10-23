@@ -40,6 +40,10 @@ Il est disponible en anglais, français et portugais (Brésil).
 
 == Screenshots ==
 
+1. Integrate your theme easily (here Twenty Fifteen).
+
+2. Easy configuration.
+
 == Changelog ==
 
 = 0.1 =

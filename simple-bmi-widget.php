@@ -41,9 +41,11 @@ class Simple_Bmi_Widget extends WP_Widget
 		<form action="" method="post">
 			<p>
 				<label for="imc_widget_poids"><?php _e( 'Weight', 'simple-bmi-widget'); ?> (<?php if ($unity == 'us') {echo 'lb';} else {echo 'kg';} ?>) :</label>
+				<br />
 				<input id="imc_widget_poids" name="imc_widget_poids" />
 				<br />
 				<label for="imc_widget_taille"><?php _e( 'Height', 'simple-bmi-widget'); ?> (<?php if ($unity == 'us') {echo 'in';} else {echo 'm';} ?>) :</label>
+				<br />
 				<input id="imc_widget_taille" name="imc_widget_taille" />
 			</p>
 		<input type="submit" value="<?php _e('Process', 'simple-bmi-widget'); ?>"/>
