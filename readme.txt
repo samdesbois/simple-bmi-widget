@@ -22,7 +22,7 @@ You can select to display the widget in two ways :
 It's available in English, French and Portugues (Brazil).
 
 = FRENCH =
-La Médecine a inventé une formule (IMC ou Indice de Masse Corporelle) pour calculer le poids idéal pour reser en bonne santé. Ce plugin va à l'essentiel en calculant l'IMC puis en fournissant son interprétation. Cette évaluation n'est valable que pour l'adulte.
+La Médecine a inventé une formule (IMC ou Indice de Masse Corporelle) pour calculer le poids idéal pour rester en bonne santé. Ce plugin va à l'essentiel en calculant l'IMC puis en fournissant son interprétation. Cette évaluation n'est valable que pour l'adulte.
 
 Vous pouvez choisir d'afficher le widget de deux façons :
 * Système métrique (mètres et kilogrammes)
